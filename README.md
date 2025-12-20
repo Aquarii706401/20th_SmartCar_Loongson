@@ -10,6 +10,10 @@
 ![My Image](image/微信图片_2025-08-17_175756_686.jpg)
 <img src="image/微信图片_20250917213921_74_280.jpg" style="width:530px; height:auto;">
 
+# 作者信息
+邮箱：Aquarii706401@163.com
+QQ：2498304612
+
 # 鸣谢
 感谢Leeezy（ [0Leeeezy0](https://github.com/0Leeeezy0)）和Sirkito在本届比赛中的日夜相伴，感谢701实验室老师及同学的帮助，祝君有如此山水
 
