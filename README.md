@@ -11,7 +11,7 @@
 <img src="image/微信图片_20250917213921_74_280.jpg" style="width:530px; height:auto;">
 
 # 作者信息
-邮箱：Aquarii706401@163.com
+邮箱：Aquarii706401@163.com  
 QQ：2498304612
 
 # 鸣谢
